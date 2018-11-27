@@ -1,0 +1,9 @@
+function ejercicio4(){
+		const pesos = parseInt(prompt('Ingrese cantidad de pesos a convertir : '));
+		const cot = parseInt(prompt('Ingrese cotizacion del dolar: '));
+
+		if ( pesos > 0 < cot ) {
+			conv = pesos*cot ;
+			alert('El valor en dolares es : ' + conv );
+			}
+}

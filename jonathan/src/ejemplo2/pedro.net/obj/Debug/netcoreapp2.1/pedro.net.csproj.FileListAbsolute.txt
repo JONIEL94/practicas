@@ -1,0 +1,11 @@
+/home/alumno/jonathan/src/ejemplo2/pedro.net/obj/Debug/netcoreapp2.1/pedro.net.csprojAssemblyReference.cache
+/home/alumno/jonathan/src/ejemplo2/pedro.net/obj/Debug/netcoreapp2.1/pedro.net.csproj.CoreCompileInputs.cache
+/home/alumno/jonathan/src/ejemplo2/pedro.net/obj/Debug/netcoreapp2.1/pedro.net.AssemblyInfoInputs.cache
+/home/alumno/jonathan/src/ejemplo2/pedro.net/obj/Debug/netcoreapp2.1/pedro.net.AssemblyInfo.cs
+/home/alumno/jonathan/src/ejemplo2/pedro.net/bin/Debug/netcoreapp2.1/pedro.net.deps.json
+/home/alumno/jonathan/src/ejemplo2/pedro.net/bin/Debug/netcoreapp2.1/pedro.net.runtimeconfig.json
+/home/alumno/jonathan/src/ejemplo2/pedro.net/bin/Debug/netcoreapp2.1/pedro.net.runtimeconfig.dev.json
+/home/alumno/jonathan/src/ejemplo2/pedro.net/bin/Debug/netcoreapp2.1/pedro.net.dll
+/home/alumno/jonathan/src/ejemplo2/pedro.net/bin/Debug/netcoreapp2.1/pedro.net.pdb
+/home/alumno/jonathan/src/ejemplo2/pedro.net/obj/Debug/netcoreapp2.1/pedro.net.dll
+/home/alumno/jonathan/src/ejemplo2/pedro.net/obj/Debug/netcoreapp2.1/pedro.net.pdb

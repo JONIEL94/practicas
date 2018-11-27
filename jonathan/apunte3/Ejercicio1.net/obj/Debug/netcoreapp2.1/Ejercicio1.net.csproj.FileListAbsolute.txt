@@ -1,0 +1,11 @@
+/home/alumno/jonathan/apunte3/Ejercicio1.net/obj/Debug/netcoreapp2.1/Ejercicio1.net.csprojAssemblyReference.cache
+/home/alumno/jonathan/apunte3/Ejercicio1.net/obj/Debug/netcoreapp2.1/Ejercicio1.net.csproj.CoreCompileInputs.cache
+/home/alumno/jonathan/apunte3/Ejercicio1.net/obj/Debug/netcoreapp2.1/Ejercicio1.net.AssemblyInfoInputs.cache
+/home/alumno/jonathan/apunte3/Ejercicio1.net/obj/Debug/netcoreapp2.1/Ejercicio1.net.AssemblyInfo.cs
+/home/alumno/jonathan/apunte3/Ejercicio1.net/bin/Debug/netcoreapp2.1/Ejercicio1.net.deps.json
+/home/alumno/jonathan/apunte3/Ejercicio1.net/bin/Debug/netcoreapp2.1/Ejercicio1.net.runtimeconfig.json
+/home/alumno/jonathan/apunte3/Ejercicio1.net/bin/Debug/netcoreapp2.1/Ejercicio1.net.runtimeconfig.dev.json
+/home/alumno/jonathan/apunte3/Ejercicio1.net/bin/Debug/netcoreapp2.1/Ejercicio1.net.dll
+/home/alumno/jonathan/apunte3/Ejercicio1.net/bin/Debug/netcoreapp2.1/Ejercicio1.net.pdb
+/home/alumno/jonathan/apunte3/Ejercicio1.net/obj/Debug/netcoreapp2.1/Ejercicio1.net.dll
+/home/alumno/jonathan/apunte3/Ejercicio1.net/obj/Debug/netcoreapp2.1/Ejercicio1.net.pdb

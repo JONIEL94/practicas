@@ -1,0 +1,17 @@
+Using System;
+namespace Edad.net
+{
+class Programa
+{
+static void main(string[]args)
+{
+Console.WriteLine("Ingrese se edad: ");
+edad=intParse(System.Console.ReadLine());
+if			 (edad >=18)
+{	
+console.WriteLine(Usted es mayor");
+}
+}
+}
+}
+
